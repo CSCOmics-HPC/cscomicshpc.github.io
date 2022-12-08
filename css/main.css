@@ -2555,3 +2555,6 @@ mark.search-keyword {
     margin-bottom: 10px;
   }
 }
+.archive .collection-title {
+  display: none !important;
+}
