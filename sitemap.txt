@@ -1,4 +1,3 @@
-https://cscomics-hpc.github.io/website/about/index.html
+https://cscomics-hpc.github.io/website/about/about.html
 https://cscomics-hpc.github.io/website/tags/index.html
-https://cscomics-hpc.github.io/website/2022/12/07/hello-world/
 https://cscomics-hpc.github.io/website
