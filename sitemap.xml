@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cscomics-hpc.github.io/website/2022/12/08/about/</loc>
+    <loc>https://cscomics-hpc.github.io/website/about/index.html</loc>
     
     <lastmod>2022-12-09</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://cscomics-hpc.github.io/website/about/about.html</loc>
+    <loc>https://cscomics-hpc.github.io/website/2022/12/08/about/</loc>
     
-    <lastmod>2022-12-08</lastmod>
+    <lastmod>2022-12-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
