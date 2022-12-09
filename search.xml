@@ -7,4 +7,60 @@
 <p>自平台建立以来，已搭建并维护一个高性能计算服务器集群，包含6个CPU刀片式计算节点、2个GPU机架式计算节点、2个I/O节点、2个存储。承担了包括单细胞中心、公共卫生学院、基础医学院、附属医院及合作单位的60余名用户的计算分析任务，服务器部署了包含单细胞DNAseq、RNAseq、宏基因组等各种下机数据的分析流程，节点常年使用率超过90%。</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>用户指南</title>
+    <url>/website/2022/12/10/userguide/</url>
+    <content><![CDATA[<h2 id="平台资源"><a href="#平台资源" class="headerlink" title="平台资源"></a>平台资源</h2><ol>
+<li>计算节点</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th align="left">队列</th>
+<th align="left">节点数</th>
+<th align="left">配置（每台）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">debug</td>
+<td align="left">1</td>
+<td align="left">80核，503G</td>
+</tr>
+<tr>
+<td align="left">normal</td>
+<td align="left">3</td>
+<td align="left">80核，503G</td>
+</tr>
+<tr>
+<td align="left">exclusive</td>
+<td align="left">2</td>
+<td align="left">80核，503G</td>
+</tr>
+<tr>
+<td align="left">gpu</td>
+<td align="left">2</td>
+<td align="left">80核，1T, 2Tesla V100</td>
+</tr>
+</tbody></table>
+<ol start="2">
+<li>存储<table>
+<thead>
+<tr>
+<th align="left">文件系统</th>
+<th align="left">存储量</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">NFS</td>
+<td align="left">1372TB</td>
+</tr>
+</tbody></table>
+</li>
+</ol>
+<h2 id="账号申请"><a href="#账号申请" class="headerlink" title="账号申请"></a>账号申请</h2><p>  请填写用户须知<div class="pdf-container" data-target="/file/单细胞中心服务器账号申请须知.pdf" data-height="600px"></div>和账号申请表<div class="pdf-container" data-target="/file/单细胞中心生物信息学平台用户需求申请表.pdf" data-height="600px"></div>，发送到平台邮箱：cscomicshpc.shsmu.edu.cn，审核通过后将在两个工作日内开通账号。</p>
+]]></content>
+      <categories>
+        <category>用户文档</category>
+      </categories>
+  </entry>
 </search>
