@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>平台简介</title>
-    <url>/website/2022/12/08/about/</url>
-    <content><![CDATA[<p>上海交通大学医学院单细胞组学与疾病研究中心生物信息学平台成立于2019年，旨在利用数学、统计学、计算机科学和人工智能领域的方法对大规模单细胞组学数据进行分析和处理，开发生物信息学分析工具，解读海量组学数据蕴含的生物学意义，为生物医学领域的科研提供数据计算支持。</p>
-<p>自平台建立以来，已搭建并维护一个高性能计算服务器集群，包含6个CPU刀片式计算节点、2个GPU机架式计算节点、2个I/O节点、2个存储。承担了包括单细胞中心、公共卫生学院、基础医学院、附属医院及合作单位的60余名用户的计算分析任务，服务器部署了包含单细胞DNAseq、RNAseq、宏基因组等各种下机数据的分析流程，节点常年使用率超过90%。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>用户指南</title>
     <url>/website/2022/12/10/userguide/</url>
     <content><![CDATA[<h2 id="平台资源"><a href="#平台资源" class="headerlink" title="平台资源"></a>平台资源</h2><ol>
@@ -57,7 +50,7 @@
 </tbody></table>
 </li>
 </ol>
-<h2 id="账号申请"><a href="#账号申请" class="headerlink" title="账号申请"></a>账号申请</h2><p>  请填写用户须知<div class="pdf-container" data-target="/file/单细胞中心服务器账号申请须知.pdf" data-height="600px"></div>和账号申请表<div class="pdf-container" data-target="/file/单细胞中心生物信息学平台用户需求申请表.pdf" data-height="600px"></div>，发送到平台邮箱：cscomicshpc.shsmu.edu.cn，审核通过后将在两个工作日内开通账号。</p>
+<h2 id="账号申请"><a href="#账号申请" class="headerlink" title="账号申请"></a>账号申请</h2><p>  请填写用户须知(<a href="https://github.com/CSCOmics-HPC/file/blob/main/%E5%8D%95%E7%BB%86%E8%83%9E%E4%B8%AD%E5%BF%83%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B4%A6%E5%8F%B7%E7%94%B3%E8%AF%B7%E9%A1%BB%E7%9F%A5.pdf)%E5%92%8C%E8%B4%A6%E5%8F%B7%E7%94%B3%E8%AF%B7%E8%A1%A8(https://github.com/CSCOmics-HPC/file/blob/main/%E5%8D%95%E7%BB%86%E8%83%9E%E4%B8%AD%E5%BF%83%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%B9%B3%E5%8F%B0%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E7%94%B3%E8%AF%B7%E8%A1%A8.docx)%EF%BC%8C%E5%8F%91%E9%80%81%E5%88%B0%E5%B9%B3%E5%8F%B0%E9%82%AE%E7%AE%B1%EF%BC%9Acscomicshpc.shsmu.edu.cn%EF%BC%8C%E5%AE%A1%E6%A0%B8%E9%80%9A%E8%BF%87%E5%90%8E%E5%B0%86%E5%9C%A8%E4%B8%A4%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%86%85%E5%BC%80%E9%80%9A%E8%B4%A6%E5%8F%B7%E3%80%82">https://github.com/CSCOmics-HPC/file/blob/main/%E5%8D%95%E7%BB%86%E8%83%9E%E4%B8%AD%E5%BF%83%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B4%A6%E5%8F%B7%E7%94%B3%E8%AF%B7%E9%A1%BB%E7%9F%A5.pdf)和账号申请表(https://github.com/CSCOmics-HPC/file/blob/main/%E5%8D%95%E7%BB%86%E8%83%9E%E4%B8%AD%E5%BF%83%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%B9%B3%E5%8F%B0%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E7%94%B3%E8%AF%B7%E8%A1%A8.docx)，发送到平台邮箱：cscomicshpc.shsmu.edu.cn，审核通过后将在两个工作日内开通账号。</a></p>
 ]]></content>
       <categories>
         <category>用户文档</category>
