@@ -4,7 +4,7 @@
   <url>
     <loc>https://cscomics-hpc.github.io/website/2022/12/10/userguide/</loc>
     
-    <lastmod>2022-12-09</lastmod>
+    <lastmod>2022-12-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
 
   <url>
     <loc>https://cscomics-hpc.github.io/website</loc>
-    <lastmod>2022-12-09</lastmod>
+    <lastmod>2022-12-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -50,7 +50,7 @@
   
   <url>
     <loc>https://cscomics-hpc.github.io/website/categories/%E7%94%A8%E6%88%B7%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2022-12-09</lastmod>
+    <lastmod>2022-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
