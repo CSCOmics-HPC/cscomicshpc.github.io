@@ -1,7 +1,9 @@
 https://cscomics-hpc.github.io/website/2022/12/10/userguide/
 https://cscomics-hpc.github.io/website/2022/12/13/faq/
+https://cscomics-hpc.github.io/website/2023/02/23/sticky/
+https://cscomics-hpc.github.io/website/about/index.html
 https://cscomics-hpc.github.io/website/tags/index.html
 https://cscomics-hpc.github.io/website/categories/index.html
-https://cscomics-hpc.github.io/website/about/index.html
 https://cscomics-hpc.github.io/website
 https://cscomics-hpc.github.io/website/categories/%E7%94%A8%E6%88%B7%E6%96%87%E6%A1%A3/
+https://cscomics-hpc.github.io/website/categories/%E9%A6%96%E9%A1%B5%E7%BD%AE%E9%A1%B6/
